@@ -6,5 +6,5 @@
 
 * The following code can be used as an alternate to this
 
-> $output = shell_exec('echo $HOSTNAME');
-  echo "<h1><center><pre>$output</pre></center></h1>";
+> `$output = shell_exec('echo $HOSTNAME');`
+  `echo "<h1><center><pre>$output</pre></center></h1>";`
