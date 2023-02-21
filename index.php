@@ -54,7 +54,7 @@ a:active {
 
 </pre>
 <h1  style="text-decoration: underline;"><?php echo "Contents are loading from: ".gethostname(); ?></h1>
-<h1  style="text-decoration: underline;">Version - 1.0</h1>
+<h1  style="text-decoration: underline;">Version - 2.0</h1>
 <p>This is a sample code to identify the running instance.</p>
 <p>Sample code by Amaldeep</p>
 <p><a href="https://github.com/amaldeeppj">https://github.com/amaldeeppj</a></p>
